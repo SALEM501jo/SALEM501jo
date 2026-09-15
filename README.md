@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Salem .
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning py,c++,html,css,js and kali linux
-- 📫 How to reach me salemasad476@gmail.com
+- 👋 Hi, I'm Salem Assa'd Mahmoud — B.Sc. Computer Science (Cybersecurity Track), Tafila Technical University.
+- 🚀 Built [Ahsan Se3r](https://ahsanse3r.com), a live Arabic/English price-comparison platform for Jordan.
+- 🛡️ Built AegisOne, an AI-powered antivirus with real-time protection and malware analysis.
+- 🎯 Seeking backend/full-stack engineering or application security roles.
+- 📫 Reach me at altamarysalem@gmail.com
 
-<!---
-SALEM501jo/SALEM501jo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
