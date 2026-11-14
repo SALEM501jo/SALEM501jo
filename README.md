@@ -19,7 +19,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SALEM501jo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SALEM501jo&theme=tokyonight" />
   <img height="170" src="https://streak-stats.demolab.com?user=SALEM501jo&theme=tokyonight&hide_border=true" />
 </p>
 
