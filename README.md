@@ -1,20 +1,50 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Salem&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Salem%20Assa%27d%20Mahmoud&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20Developer%20%7C%20Junior%20Backend%20Developer%20%7C%20Security%20Engineer&descSize=16&descAlignY=56&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Graduate+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;Built+Ahsan+Se3r+%26+AegisOne;Open+to+roles+in+Amman+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=AI+Developer+%F0%9F%A4%96;Junior+Backend+Developer+%E2%9A%99%EF%B8%8F;Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;B.Sc.+Cybersecurity%2C+2026+%F0%9F%8E%93;JordanSec+CTF%3A+6th+of+60+teams+%F0%9F%8F%81;Ready+to+start+immediately+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
-- 👋 Hi, I'm Salem Assa'd Mahmoud — B.Sc. in Cybersecurity (June 2026), Tafila Technical University.
-- 🚀 Built [Ahsan Se3r](https://ahsanse3r.com), a live Arabic/English price-comparison platform for Jordan.
-- 🛡️ Built AegisOne, an AI-powered antivirus with real-time protection and malware analysis.
-- 🎯 Open to full-stack internships and junior roles, on-site in Amman.
-- 📫 Reach me at altamarysalem@gmail.com
-
-<h3 align="center">🛠️ Tech I use</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,html,git,github" />
+  <a href="https://linkedin.com/in/salem501"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:altamarysalem@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://ahsanse3r.com"><img src="https://img.shields.io/badge/ahsanse3r.com-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://phishing.ahsanse3r.com"><img src="https://img.shields.io/badge/Phishing_Analyser-203a43?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
+
+## 👋 About me
+
+Fresh **Cybersecurity graduate** (B.Sc., 2026, Tafila Technical University) who builds and ships real software: an LLM-assisted malware-analysis app, a fine-tuned phishing-detection model served through a Chrome extension, and a live price-comparison platform with FastAPI, PostgreSQL, Docker and CI.
+
+- 🛡️ Security-minded and methodical
+- 🌍 Fluent in English and Arabic
+- 📍 Based in Amman, Jordan, ready to start immediately
+
+## 🚀 Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**AegisOne**](https://github.com/SALEM501jo/AegisOne) | Malware analysis desktop app (entropy, strings, PE structure, VirusTotal) with a local LLM assistant that explains the results. I led the student team. | Electron · React · FastAPI · Ollama (Qwen2.5:7B) |
+| [**Phishing Email Analyser**](https://github.com/SALEM501jo/phishing-email-analyser) | Chrome extension backed by a multilingual DistilBERT model fine-tuned on ~51,000 emails: 75% phishing recall on unseen campaigns at 0.3% false positives. 320+ tests. [Live ↗](https://phishing.ahsanse3r.com) | Chrome MV3 · ASP.NET Core · ONNX · Docker |
+| [**Ahsan Se3r**](https://github.com/SALEM501jo/price-comparison-platform) | Live Arabic/English price-comparison platform for Jordan, re-reading 13,600+ listings every 6 hours. OAuth 2.0 (PKCE), 1,200+ pytest tests. [Live ↗](https://ahsanse3r.com) | FastAPI · React · PostgreSQL 16 · Redis · Docker · Caddy |
+| [**Morphdrop**](https://github.com/SALEM501jo/Morphdrop) | Open-source offline Windows converter for images, PDFs, Office files, video and audio, with an auto-updating installer. | C# · .NET 10 · WPF · FFmpeg · Velopack |
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,cs,dotnet,java,postgres,redis,sqlite&perline=10" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,electron&perline=10" />
+</p>
+
+- 🔐 **Security:** penetration testing (labs, CTF) · OWASP Top 10 · static malware analysis · Wireshark · Nmap · Burp Suite · YARA · phishing analysis · Cisco firewall/switch labs
+- 🤖 **AI & LLM:** prompt engineering · local LLMs (Ollama, Qwen2.5) · fine-tuning (DistilBERT, ONNX) · evaluation · data-leakage detection
+- 🧪 **DevOps & testing:** GitHub Actions CI/CD · Trivy · CodeQL · gitleaks · pytest · xUnit · Linux server deployment
+- 📚 **Currently learning:** RAG and vector databases · LangGraph and MCP tool calling · TypeScript and Node.js · AWS · Splunk/SIEM · Security+ · CCNA
+
+## 🏆 Highlights
+
+- 🏁 **JordanSec CTF:** placed 6th of 60 teams
+- 🎖️ **CyberBridge Program (Green Circle):** certificate awarded for outstanding performance
+- 🐧 Linux peer tutor at university
 
 <h3 align="center">📊 GitHub Stats</h3>
 
