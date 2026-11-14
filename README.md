@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Salem%20Assa%27d%20Mahmoud&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20Developer%20%7C%20Junior%20Backend%20Developer%20%7C%20Security%20Engineer&descSize=16&descAlignY=56&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151826,45:3c2c51,100:b0569a&height=220&section=header&text=Salem%20Assa%27d%20Mahmoud&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20Developer%20%7C%20Junior%20Backend%20Developer%20%7C%20Security%20Engineer&descSize=16&descAlignY=56&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=AI+Developer+%F0%9F%A4%96;Junior+Backend+Developer+%E2%9A%99%EF%B8%8F;Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;B.Sc.+Cybersecurity%2C+2026+%F0%9F%8E%93;JordanSec+CTF%3A+6th+of+60+teams+%F0%9F%8F%81;Ready+to+start+immediately+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EE7EDB&center=true&vCenter=true&width=620&lines=AI+Developer+%F0%9F%A4%96;Junior+Backend+Developer+%E2%9A%99%EF%B8%8F;Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;B.Sc.+Cybersecurity%2C+2026+%F0%9F%8E%93;Ready+to+start+immediately+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/salem501"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:altamarysalem@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://ahsanse3r.com"><img src="https://img.shields.io/badge/ahsanse3r.com-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://phishing.ahsanse3r.com"><img src="https://img.shields.io/badge/Phishing_Analyser-203a43?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://ahsanse3r.com"><img src="https://img.shields.io/badge/ahsanse3r.com-3e3763?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://phishing.ahsanse3r.com"><img src="https://img.shields.io/badge/Phishing_Analyser-863a6d?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ## 👋 About me
@@ -40,17 +40,11 @@ Fresh **Cybersecurity graduate** (B.Sc., 2026, Tafila Technical University) who 
 - 🧪 **DevOps & testing:** GitHub Actions CI/CD · Trivy · CodeQL · gitleaks · pytest · xUnit · Linux server deployment
 - 📚 **Currently learning:** RAG and vector databases · LangGraph and MCP tool calling · TypeScript and Node.js · AWS · Splunk/SIEM · Security+ · CCNA
 
-## 🏆 Highlights
-
-- 🏁 **JordanSec CTF:** placed 6th of 60 teams
-- 🎖️ **CyberBridge Program (Green Circle):** certificate awarded for outstanding performance
-- 🐧 Linux peer tutor at university
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SALEM501jo&theme=tokyonight" />
-  <img height="170" src="https://streak-stats.demolab.com?user=SALEM501jo&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SALEM501jo&theme=dracula" />
+  <img height="170" src="https://streak-stats.demolab.com?user=SALEM501jo&hide_border=true&background=282A36&ring=EE7EDB&fire=EE7EDB&currStreakNum=FFFFFF&currStreakLabel=EE7EDB&sideNums=FFFFFF&sideLabels=C9A7E0&dates=9A8FB8&stroke=3C2C51" />
 </p>
 
 <p align="center">
@@ -61,4 +55,4 @@ Fresh **Cybersecurity graduate** (B.Sc., 2026, Tafila Technical University) who 
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b0569a,55:3c2c51,100:151826&height=120&section=footer" width="100%"/>
